@@ -19,6 +19,7 @@ FileSystem functions to make it easier and faster coding. This is really handy f
 # Usage
 
 Import FileSystemFunctions.bas file.
+
 Set Reference to MicroSoft Scripting Runtime (for using Scripting.FileSystemObject)
 
 # Example
